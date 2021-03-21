@@ -3,7 +3,7 @@
   "name": "Born",
   "description": "zwatch develop testing",
   "version": "${version}",
-  "mcversion": "${MCversion}",
+  "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
   "authorList": ["zwatch"],
