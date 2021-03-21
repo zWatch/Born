@@ -1,0 +1,14 @@
+[{
+  "modid": "born",
+  "name": "Born",
+  "description": "zwatch develop testing",
+  "version": "${version}",
+  "mcversion": "${MCversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["zwatch"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}]
